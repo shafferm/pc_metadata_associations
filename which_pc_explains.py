@@ -3,8 +3,6 @@ from scipy.stats import spearmanr
 import argparse
 import numpy as np
 
-#TODO: take in normal qiime pc file
-#TODO: take in minimum percent explained to limit number of pcs
 #TODO: implement use with categorical metadata labels
 #TODO: for continuous data allow pearson correlation/use correl_method arg
 #TODO: for continuous data sort correls
